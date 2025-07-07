@@ -5,7 +5,7 @@
 Meu nome é Igor, tenho 22 anos e atualmente estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - Uninter. Aprendendo Front End, mas focado em ser desenvolvedor Full Stack.
 
 <p align="start">
-    <a href="www.linkedin.com/in/igorthedev">
+    <a href="https://www.linkedin.com/in/igorthedev/">
         <img alt="linkedin" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/igorcodesyou/">
